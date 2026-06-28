@@ -5,7 +5,7 @@ A high-performance, full-stack DNS management interface.
 Welcome to the Route53-Clone! This project provides a streamlined, intuitive dashboard designed to simulate core AWS Route 53 functionality, allowing for efficient management of hosted zones and DNS records.
 
 ## 🚀 Live Demo
-Frontend: [PASTE YOUR VERCEL LINK HERE]
+Frontend: https://route53-frontend.vercel.app/
 
 > **Note to Reviewer:** This deployment hosts the frontend interface. To experience the full application with data persistence, please ensure the backend (FastAPI) is running locally on `localhost:8000`.
 
